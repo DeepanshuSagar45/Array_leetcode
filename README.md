@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
