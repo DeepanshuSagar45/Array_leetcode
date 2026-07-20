@@ -47,12 +47,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
