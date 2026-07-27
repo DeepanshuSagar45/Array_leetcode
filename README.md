@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0001-two-sum) |
+| [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
