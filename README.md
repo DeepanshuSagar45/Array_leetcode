@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 ## Binary Search
@@ -70,15 +72,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
