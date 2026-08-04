@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 ## Recursion
