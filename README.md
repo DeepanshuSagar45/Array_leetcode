@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
