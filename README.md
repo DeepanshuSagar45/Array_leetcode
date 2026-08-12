@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
