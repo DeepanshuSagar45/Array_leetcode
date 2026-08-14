@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
