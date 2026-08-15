@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
