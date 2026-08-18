@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
