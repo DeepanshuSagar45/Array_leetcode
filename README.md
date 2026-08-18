@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
