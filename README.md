@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
 ## Geometry
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
