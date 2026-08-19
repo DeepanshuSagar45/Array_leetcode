@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
+| [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0216-combination-sum-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Ordered Set
 |  |
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
