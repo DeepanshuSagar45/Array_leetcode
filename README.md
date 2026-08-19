@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
@@ -322,9 +326,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0459-repeated-substring-pattern) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
