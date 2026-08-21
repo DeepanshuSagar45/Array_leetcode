@@ -272,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
 ## Bézout's Lemma
 |  |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
