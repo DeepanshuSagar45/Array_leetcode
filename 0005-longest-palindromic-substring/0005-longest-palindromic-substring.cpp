@@ -1,6 +1,7 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
+
         int start = 0;
         int maxLen = 1;
 
