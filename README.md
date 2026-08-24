@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 ## Counting
 |  |
 | ------- |
