@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -369,4 +371,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
