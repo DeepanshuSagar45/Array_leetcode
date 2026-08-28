@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
