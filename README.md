@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0164-maximum-gap) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
