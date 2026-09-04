@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0097-interleaving-string) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0165-compare-version-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
