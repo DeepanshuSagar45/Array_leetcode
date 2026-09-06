@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0457-circular-array-loop) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0457-circular-array-loop) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bézout's Lemma
 |  |
 | ------- |
