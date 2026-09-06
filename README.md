@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0179-largest-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
