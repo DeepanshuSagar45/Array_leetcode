@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0940-distinct-subsequences-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
