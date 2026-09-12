@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0321-create-maximum-number) |
 ## Matrix
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0365-water-and-jug-problem) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -393,12 +395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
