@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
