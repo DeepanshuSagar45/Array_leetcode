@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0940-distinct-subsequences-ii) |
