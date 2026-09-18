@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0093-restore-ip-addresses) |
