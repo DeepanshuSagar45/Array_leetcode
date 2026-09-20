@@ -442,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/DeepanshuSagar45/Array_leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
